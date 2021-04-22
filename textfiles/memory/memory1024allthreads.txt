@@ -1,0 +1,196 @@
+Enter the number of threads you want to create:1
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.004916 Sec
+Throughput for seq read = 1017.096852
+Time elapsed using threads: 0.003433 Sec
+Throughput for seq write = 0.000000
+Time elapsed using threads: 0.005065 Sec
+Throughput for rand read = 987.173790
+Time elapsed using threads: 0.003596 Sec
+Throughput for rand write =1390.407744
+Ending...
+Latency: 0.989800 ns
+
+
+
+Enter the number of threads you want to create:2
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.007116 Sec
+Throughput for seq read = 702.634101
+Time elapsed using threads: 0.005656 Sec
+Throughput for seq write = 0.000000
+Time elapsed using threads: 0.008595 Sec
+Throughput for rand read = 581.734258
+Time elapsed using threads: 0.005796 Sec
+Throughput for rand write =862.670506
+Ending...
+Latency: 0.985900 ns
+
+Enter the number of threads you want to create:3
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.011468 Sec
+Throughput for seq read = 435.998337
+Time elapsed using threads: 0.007883 Sec
+Throughput for seq write = 634.270506
+Time elapsed using threads: 0.011834 Sec
+Throughput for rand read = 422.506245
+Time elapsed using threads: 0.008050 Sec
+Throughput for rand write =621.120720
+Ending...
+Latency: 0.977900 ns
+
+
+Enter the number of threads you want to create:4
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.011571 Sec
+Throughput for seq read = 432.117366
+Time elapsed using threads: 0.010021 Sec
+Throughput for seq write = 498.953629
+Time elapsed using threads: 0.012965 Sec
+Throughput for rand read = 385.654756
+Time elapsed using threads: 0.010275 Sec
+Throughput for rand write =486.612061
+Ending...
+Latency: 0.986000 ns
+
+
+Enter the number of threads you want to create:5
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.015025 Sec
+Throughput for seq read = 332.780907
+Time elapsed using threads: 0.013533 Sec
+Throughput for seq write = 0.000000
+Time elapsed using threads: 0.015590 Sec
+Throughput for rand read = 320.719387
+Time elapsed using threads: 0.013436 Sec
+Throughput for rand write =372.132375
+Ending...
+Latency: 1.003600 ns
+
+
+Enter the number of threads you want to create:6
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.018322 Sec
+Throughput for seq read = 272.896107
+Time elapsed using threads: 0.016212 Sec
+Throughput for seq write = 0.000000
+Time elapsed using threads: 0.017917 Sec
+Throughput for rand read = 279.062142
+Time elapsed using threads: 0.015792 Sec
+Throughput for rand write =316.618153
+Ending...
+Latency: 0.978400 ns
+
+
+Enter the number of threads you want to create:7
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.020301 Sec
+Throughput for seq read = 246.292029
+Time elapsed using threads: 0.018835 Sec
+Throughput for seq write = 265.462278
+Time elapsed using threads: 0.024686 Sec
+Throughput for rand read = 202.545103
+Time elapsed using threads: 0.019522 Sec
+Throughput for rand write =256.121933
+Ending...
+Latency: 1.026700 ns
+
+
+Enter the number of threads you want to create:8
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.021800 Sec
+Throughput for seq read = 229.359873
+Time elapsed using threads: 0.021872 Sec
+Throughput for seq write = 228.604816
+Time elapsed using threads: 0.022682 Sec
+Throughput for rand read = 220.437269
+Time elapsed using threads: 0.021648 Sec
+Throughput for rand write =230.968964
+Ending...
+Latency: 0.971200 ns
+
+
+Enter the number of threads you want to create:9
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.026087 Sec
+Throughput for seq read = 191.666012
+Time elapsed using threads: 0.024308 Sec
+Throughput for seq write = 205.693885
+Time elapsed using threads: 0.031876 Sec
+Throughput for rand read = 156.857395
+Time elapsed using threads: 0.025452 Sec
+Throughput for rand write =196.448999
+Ending...
+Latency: 0.982300 ns
+
+
+Enter the number of threads you want to create:10
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.028476 Sec
+Throughput for seq read = 175.586460
+Time elapsed using threads: 0.027342 Sec
+Throughput for seq write = 182.868304
+Time elapsed using threads: 0.034801 Sec
+Throughput for rand read = 143.674006
+Time elapsed using threads: 0.026911 Sec
+Throughput for rand write =185.797489
+Ending...
+Latency: 0.964500 ns
+
+
+Enter the number of threads you want to create:11
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.032103 Sec
+Throughput for seq read = 155.749541
+Time elapsed using threads: 0.029743 Sec
+Throughput for seq write = 168.107029
+Time elapsed using threads: 0.031061 Sec
+Throughput for rand read = 160.973910
+Time elapsed using threads: 0.030402 Sec
+Throughput for rand write =164.463161
+Ending...
+Latency: 0.968300 ns
+
+
+Enter the number of threads you want to create:12
+
+Enter the size(1 byte/1024 bytes/1048576 bytes:1024
+Constructing the file...
+Time elapsed using threads: 0.035820 Sec
+Throughput for seq read = 139.587724
+Time elapsed using threads: 0.034994 Sec
+Throughput for seq write = 142.881125
+Time elapsed using threads: 0.034988 Sec
+Throughput for rand read = 142.906440
+Time elapsed using threads: 0.032649 Sec
+Throughput for rand write =153.143859
+Ending...
+Latency: 0.978300 ns
+
+
+
+
+
+

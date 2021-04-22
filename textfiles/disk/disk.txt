@@ -1,0 +1,92 @@
+
+
+Sequential Read/Write for 8 Byte Block
+
+The Latency for Read+Write with 1 thread(s): 4.168 ms
+The Latency for Read+Write with 2 thread(s): 4.127 ms
+The Latency for Read+Write with 4 thread(s): 4.242 ms
+The Latency for Read+Write with 8 thread(s): 4.456 ms
+
+
+Sequential Read/Write for 8 Kilo Bytes Block
+
+The Throughput for Read+Write with 1 thread(s): 771.02 Mbps
+The Throughput for Read  with 1 thread(s): 1092.78 Mbps
+
+The Throughput for Read+Write with 2 thread(s): 1050.62 Mbps
+The Throughput for Read  with 2 thread(s): 3375.47 Mbps
+
+The Throughput for Read+Write with 4 thread(s): 1219.13 Mbps
+The Throughput for Read  with 4 thread(s): 3382.79 Mbps
+
+The Throughput for Read+Write with 8 thread(s): 1291.55 Mbps
+The Throughput for Read  with 8 thread(s): 3999.34 Mbps
+
+
+
+Sequential Read/Write for 8 Mega Bytes Block
+
+The Throughput for Read+Write with 1 thread(s): 926.00 Mbps
+The Throughput for Read  with 1 thread(s): 4695.42 Mbps
+
+The Throughput for Read+Write with 2 thread(s): 1193.11 Mbps
+The Throughput for Read  with 2 thread(s): 3727.88 Mbps
+
+The Throughput for Read+Write with 4 thread(s): 1217.78 Mbps
+The Throughput for Read  with 4 thread(s): 4439.20 Mbps
+
+The Throughput for Read+Write with 8 thread(s): 1506.99 Mbps
+The Throughput for Read  with 8 thread(s): 5077.95 Mbps
+
+
+
+Sequential Read/Write for 80 Mega Bytes Block
+
+The Throughput for Read+Write with 1 thread(s): 917.73 Mbps
+The Throughput for Read  with 1 thread(s): 2987.94 Mbps
+
+The Throughput for Read+Write with 2 thread(s): 1082.02 Mbps
+The Throughput for Read  with 2 thread(s): 2727.71 Mbps
+
+The Throughput for Read+Write with 4 thread(s): 1146.37 Mbps
+The Throughput for Read  with 4 thread(s): 2391.31 Mbps
+
+The Throughput for Read+Write with 8 thread(s): 1442.15 Mbps
+The Throughput for Read  with 8 thread(s): 2185.49 Mbps
+
+Random Read for 8 Byte Block
+
+The Latency for Read  with 1 thread(s): 1.164 ms
+The Latency for Read  with 2 thread(s): 0.693 ms
+The Latency for Read  with 4 thread(s): 0.727 ms
+The Latency for Read  with 8 thread(s): 0.880 ms
+Random Read for 8 Kilo Bytes Block
+
+The Throughput for Read  with 1 thread(s): 1591.57 Mbps
+
+The Throughput for Read  with 2 thread(s): 2353.05 Mbps
+
+The Throughput for Read  with 4 thread(s): 3074.56 Mbps
+
+The Throughput for Read  with 8 thread(s): 3309.65 Mbps
+
+Random Read for 8 Mega Bytes Block
+
+The Throughput for Read  with 1 thread(s): 5317.88 Mbps
+
+The Throughput for Read  with 2 thread(s): 4499.62 Mbps
+
+The Throughput for Read  with 4 thread(s): 4502.96 Mbps
+
+The Throughput for Read  with 8 thread(s): 4784.87 Mbps
+
+Random Read for 80 Mega Bytes Block
+
+The Throughput for Read  with 1 thread(s): 3049.53 Mbps
+
+The Throughput for Read  with 2 thread(s): 2808.46 Mbps
+
+The Throughput for Read  with 4 thread(s): 2433.48 Mbps
+
+The Throughput for Read  with 8 thread(s): 2276.34 Mbps
+
